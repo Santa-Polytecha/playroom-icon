@@ -4,6 +4,8 @@
 
 Official Playroom Icon.
 
+![Playroom Icon](png/playroom256.png)
+
 ## Built With
 
 * [Inkscape][inkscape]
