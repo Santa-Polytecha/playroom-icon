@@ -1,8 +1,8 @@
-# Playroom Icon
+# Playroom Icons
 
 ![image: SVG][shield-image] ![license: MIT][shield-license]
 
-Official Playroom Icon.
+Official Playroom Icons.
 
 ![Playroom Icon](png/playroom256.png)
 
