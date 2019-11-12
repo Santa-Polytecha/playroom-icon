@@ -12,3 +12,8 @@ inkscape -z logo/playroom.svg -e logo/png/playroom192.png -C -w 192 -h 192 -d 64
 inkscape -z logo/playroom.svg -e logo/png/playroom256.png -C -w 256 -h 256
 inkscape -z logo/playroom.svg -e logo/png/playroom512.png -C -w 512 -h 512
 inkscape -z logo/playroom.svg -e logo/png/playroom1024.png -C -w 1024 -h 1024
+
+inkscape -z banner/room1.svg -e banner/png/room1.png -C -w 1024 -h 1024
+inkscape -z banner/room2.svg -e banner/png/room2.png -C -w 1024 -h 1097
+inkscape -z banner/room3.svg -e banner/png/room3.png -C -w 1024 -h 819
+inkscape -z banner/room4.svg -e banner/png/room4.png -C -w 1024 -h 602
